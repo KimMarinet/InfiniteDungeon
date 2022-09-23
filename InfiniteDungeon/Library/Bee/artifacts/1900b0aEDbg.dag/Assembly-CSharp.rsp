@@ -358,6 +358,8 @@
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll"
 "Assets/Scripts/Character_Mei.cs"
 "Assets/Scripts/Delete_MissingScripts.cs"
+"Assets/Shinabro/Platform_Animation/Scripts/PlayerController_Platform.cs"
+"Assets/Shinabro/Platform_Animation/Scripts/TargetCamera_Platform.cs"
 -langversion:9.0
 
 /deterministic

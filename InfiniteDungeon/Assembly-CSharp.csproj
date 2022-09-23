@@ -58,6 +58,8 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Character_Mei.cs" />
     <Compile Include="Assets\Scripts\Delete_MissingScripts.cs" />
+    <Compile Include="Assets\ImportedAssets\Platform_Animation\Scripts\PlayerController_Platform.cs" />
+    <Compile Include="Assets\ImportedAssets\Platform_Animation\Scripts\TargetCamera_Platform.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\ImportedAssets\Character\P06_Pai&amp;Mei\Toon\Shader\Toon_DoubleShadeWithFeather_Mobile_TransClipping_StencilMask.shader" />
@@ -143,6 +145,7 @@
     <None Include="Assets\ImportedAssets\Character\P06_Pai&amp;Mei\Toon\Shader\Tess\ToonColor_DoubleShadeWithFeather_Clipping_Tess.shader" />
     <None Include="Assets\ImportedAssets\Character\P06_Pai&amp;Mei\Toon\Shader\ToonColor_ShadingGradeMap_TransClipping_StencilMask.shader" />
     <None Include="Assets\ImportedAssets\Character\P06_Pai&amp;Mei\Toon\Shader\Toon_DoubleShadeWithFeather.shader" />
+    <None Include="Assets\ImportedAssets\Platform_Animation\Readme.txt" />
     <None Include="Assets\ImportedAssets\Character\P06_Pai&amp;Mei\Toon\Shader\Toon_DoubleShadeWithFeather_TransClipping_StencilOut.shader" />
     <None Include="Assets\ImportedAssets\Character\P06_Pai&amp;Mei\Toon\Shader\Tess\ToonColor_DoubleShadeWithFeather_Transparent_Tess.shader" />
     <None Include="Assets\ImportedAssets\Character\P06_Pai&amp;Mei\Toon\Shader\Tess\ToonColor_ShadingGradeMap_TransClipping_Tess.shader" />

@@ -356,10 +356,11 @@
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll"
+"Assets/ImportedAssets/Platform_Animation/Scripts/PlayerController_Platform.cs"
+"Assets/ImportedAssets/Platform_Animation/Scripts/TargetCamera_Platform.cs"
 "Assets/Scripts/Character_Mei.cs"
 "Assets/Scripts/Delete_MissingScripts.cs"
-"Assets/Shinabro/Platform_Animation/Scripts/PlayerController_Platform.cs"
-"Assets/Shinabro/Platform_Animation/Scripts/TargetCamera_Platform.cs"
+"Assets/Scripts/GameManager.cs"
 -langversion:9.0
 
 /deterministic
